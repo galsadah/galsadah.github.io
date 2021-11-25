@@ -1,0 +1,26 @@
+I"�<h2 id="table-of-contents">Table of contents</h2>
+<p>1- Part #1 recap <br />
+2- Data source &amp; Weighting <br />
+3- Study sample &amp; variables <br />
+4- Statistical Analyses <br /></p>
+
+<h2 id="part-1-recap">Part #1 recap</h2>
+<p>In part #1, we discussed the state of knowledge of the impact of alcohol use on mental health. We also reviewd studies about alcohol use in veterans with disabilities. Our research question is to assess whether there is an association between alcohol use and mental health outcomes in veterans with disabilities. In this post, we try to learn more about the data we want to use in this project.</p>
+
+<h2 id="data-source--weighting">Data source &amp; Weighting</h2>
+<p>The data we will be using is the 2020 Behavioral Risk Factor Surveillance System (BRFSS) which is a cross-sectional annual telephone survey in the United States. It is conducted by the Centers for Disease Control and Prevention (CDC) and health departments to collect behavioral health risk data from adult U.S. residents on their health-related risk behaviors, chronic health conditions, and preventive service use. BRFSS questionnaire includes (1) core questions (which are asked by all states), (2) optional modules (which are based on specific topics), and (3) state-added questions <a href="https://www.cdc.gov/brfss/data_documentation/pdf/UserguideJune2013.pdf">(CDC, 2013).</a></p>
+
+<p>In order to make generalizations from the sample to the population and to reduce bias, we need to weight the data. The BRFSS uses an iterative proportional fitting (or raking) which can adjust for demographic differences that can be found between sample and population. The first method they used is “design weights” which are calculated from geographic stratum weight. The second method is raking which can help if groups are underrepresented in the sample and require to be accurately
+represented. <a href="https://www.cdc.gov/brfss/annual_data/annual_2020.html">More information about the BRFSS weighting process can be found here.</a></p>
+
+<h2 id="study-sample--variables">Study sample &amp; variables</h2>
+
+<p><em>Disability Status</em></p>
+
+<p>To determine disability status, participants were asked the following questions: “Some people who are deaf or have serious difficulty hearing may or may not use equipment to communicate by phone. Are you deaf or do you have serious difficulty hearing?” (hearing); “Are you blind or do you have serious difficulty seeing, even when wearing glasses?” (vision); “Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?” (cognition); “Do you have serious difficulty walking or climbing stairs?” (mobility); “Do you have difficulty dressing or bathing?” (self-care); “Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor’s office or shopping?” (Independent living). Respondents were defined as having a disability if they answered “yes” to any of the disability questions. <a href="https://www.cdc.gov/brfss/data_documentation/pdf/BRFSS_Data_Users_Guide_on_Disability_Questions_2018-508.pdf">More information on creating the disability status can be found here.</a> Additional information on disability status and types can be found <a href="https://www.cdc.gov/ncbddd/disabilityandhealth/dhds/data-guide/status-and-types.html">here.</a></p>
+
+<p><em></em></p>
+
+<h2 id="statistical-analyses">Statistical Analyses</h2>
+<p>Content …</p>
+:ET
