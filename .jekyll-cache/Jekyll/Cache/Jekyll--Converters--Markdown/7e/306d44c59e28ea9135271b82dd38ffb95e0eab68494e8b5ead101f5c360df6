@@ -1,4 +1,4 @@
-I"™<h2 id="table-of-contents">Table of contents</h2>
+I"ù<h2 id="table-of-contents">Table of contents</h2>
 <p>1- Part #2 recap <br />
 2- Insights about veterans with disabilities <br /></p>
 
@@ -8,11 +8,11 @@
 <h2 id="insights-about-veterans-with-disabilities">Insights about veterans with disabilities</h2>
 <p>Our study sample consisted of  <strong>17,975</strong> veterans with disabilites. As shown in Figure 1, the sample consisted of mostly male which accounted for <strong>88.9%</strong>.</p>
 
-<p><img src="/img/posts/test-img/Fig1_dist_sex.png" alt="IMDb page" /></p>
+<p><img src="/img/Fig1_dist_sex.png" alt="IMDb page" /></p>
 
 <p>The majority of our sample were white non-hispanic <strong>(74.6%)</strong>, followed by black non-hispanic <strong>(11.2%)</strong>, hispanic <strong>(7.91%)</strong>, and asian, native american, or other non-hispanic <strong>(6.27%)</strong> as shown in Figure 2.</p>
 
-<p>Fig here</p>
+<p><img src="/img/fig2_race.png" alt="IMDb page" /></p>
 
 <p>Most of the veterans with disabilities in the sample were between the ages of 65 or older <strong>(55.2%)</strong>, followed by veterans ages 55 to 64 <strong>(16.2%)</strong>, veterans ages 45 to 54 <strong>(10.3%)</strong>, veterans ages 35 to 44 <strong>(8.27%)</strong>, veterans 25 to 34 <strong>(7.84%)</strong>, and veterans ages 18 to 24 <strong>(2.23%)</strong>.</p>
 
@@ -150,5 +150,38 @@
     </tr>
   </tbody>
 </table>
+
+<p><br /></p>
+
+<table>
+  <tr>
+    <td colspan="4">
+      Available
+    </td>
+  </tr>
+  <tr>
+    <td>
+      A
+    </td>
+    <td>
+      B
+    </td>
+    <td>
+      C
+    </td>
+    <td>
+      D
+    </td>
+    </tr>
+</table>
+
+<h4 id="more-insights">More Insights</h4>
+
+<ul>
+  <li>Only <strong>12.6%</strong> of the sample were binge drinking (main explanatory variable).</li>
+  <li>Only <strong>17.42%</strong> of the sample had 14+ mentally unhealthy days (dependent variable).</li>
+  <li>The majority of the sample were married or living with a partenr <strong>(58.9%)</strong>.</li>
+  <li>The majority of the sample were retired <strong>(53.1%)</strong> and attended college or technical school <strong>(38.5%)</strong>.</li>
+</ul>
 
 :ET

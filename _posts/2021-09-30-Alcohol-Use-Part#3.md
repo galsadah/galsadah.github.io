@@ -19,13 +19,14 @@ In part #2, we talked about the data source we are using for this project, which
 Our study sample consisted of  **17,975** veterans with disabilites. As shown in Figure 1, the sample consisted of mostly male which accounted for **88.9%**.  
 
 
-![IMDb page](/img/posts/test-img/Fig1_dist_sex.png)
+![IMDb page](/img/Fig1_dist_sex.png)
 
 
 The majority of our sample were white non-hispanic **(74.6%)**, followed by black non-hispanic **(11.2%)**, hispanic **(7.91%)**, and asian, native american, or other non-hispanic **(6.27%)** as shown in Figure 2. 
 
 
-Fig here 
+![IMDb page](/img/fig2_race.png)
+ 
 
 
 Most of the veterans with disabilities in the sample were between the ages of 65 or older **(55.2%)**, followed by veterans ages 55 to 64 **(16.2%)**, veterans ages 45 to 54 **(10.3%)**, veterans ages 35 to 44 **(8.27%)**, veterans 25 to 34 **(7.84%)**, and veterans ages 18 to 24 **(2.23%)**. 
@@ -68,8 +69,39 @@ Most of the veterans with disabilities in the sample were between the ages of 65
 | Don’t know/Refused/Missing                    | 790 (5.04)                |
 | **Days Mental Health Not Good**               |                           |
 | 13 or less days when mental health not good   | 14,316 (79.64)            |
-| 14 or more days when mental health not good   | 3,131 (17.42)             |
+| 14 or more days when mental health not good   | 3,131 (17.42)             | 
 
+<br> 
+
+<style>
+table {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid #000;
+  margin: 0;
+  padding: 0.5em;
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+tr:hover {
+    background-color: yellow;
+}
+</style>
+
+
+#### More Insights ### 
+
+
+- Only **12.6%** of the sample were binge drinking (main explanatory variable). 
+- Only **17.42%** of the sample had 14+ mentally unhealthy days (dependent variable). 
+- The majority of the sample were married or living with a partenr **(58.9%)**.
+- The majority of the sample were retired **(53.1%)** and attended college or technical school **(38.5%)**. 
 
 
 
