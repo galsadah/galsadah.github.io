@@ -16,7 +16,7 @@ In part #2, we talked about the data source we are using for this project, which
 
 
 ## Insights about veterans with disabilities
-Our study sample consisted of  **17,975** veterans with disabilites. As shown in Figure 1, the sample consisted of mostly male which accounted for **88.9%**.  
+Our study sample consisted of  **17,975** veterans with disabilities. As shown in Figure 1, the sample consisted of mostly male which accounted for **88.9%**.  
 
 
 ![IMDb page](/img/Fig1_dist_sex.png)
