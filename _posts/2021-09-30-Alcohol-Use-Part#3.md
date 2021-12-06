@@ -38,6 +38,8 @@ Most of the veterans with disabilities in the sample were between the ages of 65
 **Table 1** bellow illustrates the summary of the distribution of the remaining sample characteristics related to the 17,975 veterans with disabilites including education, employment, income, marital status, binge drinking, and days mental health not good.   
 
 
+Table 1: Summary table of sample characteristics
+
 | Characteristics                               | Unweighted n (Weighted %) |
 |                   :---:                       |           :---:           |
 | **Education**                                 |                           |
@@ -71,8 +73,7 @@ Most of the veterans with disabilities in the sample were between the ages of 65
 | 13 or less days when mental health not good   | 14,316 (79.64)            |
 | 14 or more days when mental health not good   | 3,131 (17.42)             | 
 
-<br> 
-
+<br>
 <style>
 table {
   border: 1px solid black;
@@ -85,12 +86,12 @@ td {
 }
 
 th {
-  background-color: #04AA6D;
+  background-color: #2596be;
   color: white;
 }
 
 tr:hover {
-    background-color: yellow;
+    background-color: pink;
 }
 </style>
 
