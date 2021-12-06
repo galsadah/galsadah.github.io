@@ -100,3 +100,5 @@ Six categories, 18 to 24, 25 to 34, 35 to 44, 45 to 54, 55 to 64, and 65 or olde
 ## Statistical Analyses
 
 We will use quantitative methods to assess the relationship between veterans with disabilities mental health outcomes (mentally unhealthy days) and binge drinking. First, we will conduct descriptive analysis to examine the demographic characteristics, mental health outcomes, and binge drinking among veterans with disabilities. Then, multivariate logistic regression analysis will be conducted to assess the relationship between binge drinking and mentally unhealthy days.
+
+The tools that will be used in this analysis include STATA and R. 
