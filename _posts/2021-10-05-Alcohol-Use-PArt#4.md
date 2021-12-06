@@ -34,7 +34,7 @@ After conducting our logistic regression on STATA, we organized the results in t
 
 ## Discussion 
 
-Although not all the results of this study were consistent with the findings of the literature review, some of the significant findings were in line with the reviewed studies. For example, the CDC highlights lack of employment as one of the major stressors for people with disabilities [(CDC, 2020).](https://www.cdc.gov/ncbddd/disabilityandhealth/disability-barriers.html/) In addition, our literature review emphasizes that difficulties during transition (for example, difficulties finding and maintaining employment) are major contributors of stress veterans [(NDIA, 2019).](https://www.drugabuse.gov/publications/drugfacts/substance-use-military-life) Some other variances in the results of this study, when compared to the literature review, can be attributed to the limitations mentioned in the section below.
+Although not all the results of this study were consistent with the findings of the literature review, some of the significant findings were in line with the reviewed studies. For example, the CDC highlights lack of employment as one of the major stressors for people with disabilities [(CDC, 2020).](https://www.cdc.gov/ncbddd/disabilityandhealth/disability-barriers.html/) In addition, our literature review emphasizes that difficulties during transition (for example, difficulties finding and maintaining employment) are major contributors of stress veterans [(NIDA, 2019).](https://www.drugabuse.gov/publications/drugfacts/substance-use-military-life) Some other variances in the results of this study, when compared to the literature review, can be attributed to the limitations mentioned in the section below.
 
 
 
